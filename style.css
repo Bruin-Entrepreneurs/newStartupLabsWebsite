@@ -364,7 +364,7 @@ a:hover {
 .companyDescription {
 	color: #214876;
 	font-size: 2.6vh;
-	line-height: 1.7rem;
+	/*line-height: 1.7rem;*/
 }
 
 .featuredImage {
